@@ -6,6 +6,7 @@
     <title>practical - 5</title>
 </head>
 <body>
+    
     <?php
         echo "<h2>for Loop</h2>";
 
